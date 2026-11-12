@@ -1,3 +1,9 @@
+<!-- project-overview:start -->
+> **项目简介**：汇集多个平台的实时资讯和热榜，支持分类阅读、缓存更新与 GitHub 登录同步。
+>
+> 本仓库是 [newsnext/newsnow](https://github.com/newsnext/newsnow) 的 Fork；下方保留项目文档与原有署名。
+<!-- project-overview:end -->
+
 ![](/public/og-image.png)
 
 English | [简体中文](README.zh-CN.md) | [日本語](README.ja-JP.md)
